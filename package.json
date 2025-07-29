@@ -1,0 +1,19 @@
+{
+  "name": "password",
+  "version": "1.0.0",
+  "description": "A random password generator ",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanistaken/Password.git"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanistaken/Password/issues"
+  },
+  "homepage": "https://github.com/Amanistaken/Password#readme"
+}

@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #000000;
+    color: #000;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+    padding: 2rem;
+}
+
+.container h1 span {
+    color: #016d11;
+}
+
+.input{
+    font-size: 1.1rem;  
+    display: block;
+    margin: auto;
+    border-radius: 1.4rem;
+    padding: 0.5rem;
+}
+
+.random{
+    font-size: 1rem;
+    color: #00520e;
+    display: block;
+    margin: 1.3rem auto;
+    border-radius: 1.1rem;
+    padding: 0.3rem;
+    cursor: pointer;
+}
+
+
+h1{
+    color: white;
+}
